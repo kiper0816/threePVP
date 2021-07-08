@@ -1,0 +1,13 @@
+name: threePVP
+main: xyz.umeo.threePVP.Main
+api-version: '1.17'
+version: 1.0-17.1
+
+commands:
+  start:
+    description: Start PVP!
+    usage: /<command>
+
+  reset:
+    description: Reset PVP!
+    usage: /<command>
